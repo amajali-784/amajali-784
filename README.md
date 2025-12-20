@@ -1,57 +1,78 @@
-# 👋 Hey, I’m Amajali (@amajali-784)  
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Ankush Majalikar (Amajali)</h1>
+<p align="center">A passionate Software Engineer | Python Developer | Cybersecurity Enthusiast</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer;AI+%26+Cybersecurity+Enthusiast;Open-Source+Contributor;Lifelong+Learner+%F0%9F%9A%80)](https://git.io/typing-svg)  
-
----
-
-### 🚀 About Me  
-- 👀 Exploring **software development, machine learning, cyber security, and open source**.  
-- 🌱 Currently diving into **React.js, Python, Java, C, and Data Structures & Algorithms**.  
-- 💼 Skilled in **Python | C | Java | DSA** — building **secure & scalable software**.  
-- 💞️ Open for collaborations in **Cybersecurity | AI/ML | Full-stack development**.  
-- ⚡ Fun fact: *I love to travel 🌍 and explore new cultures!*  
-
-📫 Reach me at: ****  
-
----
-
-### 🔥 Current Challenge  
-🎯 Participating in **[30 Days of AI Voice Agents](https://github.com/amajali-784/30-Days-of-AI-Voice-Agents-challenge)** 🚀  
-Building **voice-enabled apps** with **AssemblyAI, FastAPI, Websockets & React**.  
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankush-majalikar-76bb301a4/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Write%20Me-c14438?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://github.com/amajali-784">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-amajali--784-black?logo=github&style=flat-square" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+## 👨‍💻 About Me
+
+I’m a dedicated software developer with a strong foundation in **Python, C, Java, Data Structures & Algorithms**, and an interest in **Cybersecurity, AI/ML, and Web Development**. I build secure, scalable, and efficient applications and enjoy learning new technologies and solving complex problems. 0
+
+- 🌱 I’m currently building **AI-powered voice applications** with **AssemblyAI, FastAPI, WebSockets & React** as part of the *30 Days of AI Voice Agents* challenge. 1
+- 💡 I enjoy exploring **full-stack development, NLP, machine learning, and secure coding practices**.
+- 🤝 I’m open to collaborations and contributions in Cybersecurity, AI/ML, and full-stack projects.
 
 ---
 
-### 📂 Featured Projects  
-🚀 [**30-Days-of-AI-Voice-Agents**](https://github.com/amajali-784/30-Days-of-AI-Voice-Agents-challenge) – AI-powered voice interaction challenge.  
-💳 [**Credit-Approval-System**](https://github.com/amajali-784/Credit-Approval-System) – Django REST API simulating loan & credit workflows.  
-🤖 [**Handwritten Digits Recognition**](https://github.com/amajali-784/codeclause_-Handwritten-Digits-Recognition) – ML for digit recognition.  
-💬 [**Sentiment Analysis**](https://github.com/amajali-784/codeclause_Sentiment-Analysis) – NLP project for text sentiment.  
-⚡ [**Hackathon Projects**](https://github.com/amajali-784/AmborSquads_Informatica-AI-GenAI-Hackathon-2025) – AI + Web3 + GenAI explorations.  
+## 🛠 Tech Stack
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" />
+  <img alt="C" src="https://img.shields.io/badge/C-258BC1?logo=c&style=flat-square" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&style=flat-square" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&style=flat-square" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&style=flat-square" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=flat-square" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" />
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-![Amajali's GitHub stats](https://github-readme-stats.vercel.app/api?username=amajali-784&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amajali-784&layout=compact&theme=tokyonight)  
+## 💼 Featured Projects
+
+Here are some highlighted projects from my profile that showcase my work:
+
+| Project | Description |
+|---------|-------------|
+| **30-Days-of-AI-Voice-Agents** | AI-powered voice interaction challenge using FastAPI, AssemblyAI & React. 2 |
+| **Credit-Approval-System** | Django REST API simulating loan & credit workflows. 3 |
+| **Handwritten Digits Recognition** | Machine Learning project for digit recognition (ML). 4 |
+| **Sentiment Analysis** | NLP based sentiment classification. 5 |
+| **Hackathon Projects** | A collection of small AI + Web3 + GenAI focused prototypes. 6 |
+
+You can explore all projects in my repositories!
 
 ---
 
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-📧 ****  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amajali-784&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
-🔥 *Always building. Always learning. Always innovating.* 🚀  
+## 📫 How to Reach Me
+
+Whether it’s about collaboration, job opportunities, or tech talk — feel free to connect!
+
+- ✉️ Email: **noreply@ankush.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/ankush-majalikar-76bb301a4/ 7
+
+---
+
+<p align="center">🚀 Always building. Always learning. Always innovating.</p>
