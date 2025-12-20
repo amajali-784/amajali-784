@@ -58,18 +58,8 @@ You can explore all projects in my repositories!
 
 ---
 
-## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amajali-784&layout=compact&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amajali-784&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
----
-
-## 📊 GitHub Activity
-
-![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=amajali-784&show_icons=true&hide_border=true)
-
----
 
 ## 📫 How to Reach Me
 
