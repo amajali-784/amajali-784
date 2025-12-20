@@ -63,6 +63,11 @@ You can explore all projects in my repositories!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amajali-784&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+---
+
+## 📊 GitHub Activity
+
+![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=amajali-784&show_icons=true&hide_border=true)
 
 ---
 
