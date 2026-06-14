@@ -155,7 +155,7 @@ https://www.linkedin.com/in/ankush-majalikar-76bb301a4/
 https://github.com/amajali-784
 
 📧 Email:
-[your-email@example.com](mailto:your-email@example.com)
+DM ON LINKEDIN
 
 ---
 
