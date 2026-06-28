@@ -1,170 +1,247 @@
-# 👋 Hi, I'm Ankush Majalikar
+# 👋 Hi, I'm **Ankush Majalikar**
 
 <div align="center">
 
-### 🤖 AI/ML Engineer | 📊 Data Scientist | 🐍 Python Developer | 🔐 Cybersecurity Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Data+Scientist;Python+Developer;Generative+AI+%7C+LLMs+%7C+Computer+Vision;Building+Production+Ready+AI+Applications" />
 
-🚀 Building Real-World AI Solutions with Machine Learning, Data Science, Generative AI & Python
+<br>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ankush-majalikar-76bb301a4/">
-<img src="https://img.shields.io/badge/LinkedIn-Ankush%20Majalikar-blue?logo=linkedin&style=for-the-badge"/>
-</a>
+### 🚀 AI/ML Engineer • Data Scientist • Python Developer • GenAI Enthusiast
+
+Building intelligent systems using **Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI and Data Science**
+
+<br>
+
 <a href="https://github.com/amajali-784">
-<img src="https://img.shields.io/badge/GitHub-amajali--784-black?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/amajali-784?label=Followers&style=for-the-badge"/>
 </a>
-</p>
+
+<a href="https://github.com/amajali-784">
+<img src="https://img.shields.io/github/stars/amajali-784?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankush-majalikar-76bb301a4/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-* 🎓 Computer Science Graduate passionate about Artificial Intelligence and Data Science
-* 🤖 Working on AI/ML, Data Analytics, NLP, Deep Learning and Generative AI projects
-* 📊 Experienced in building Machine Learning models and data-driven applications
-* 🔭 Currently developing AI-powered solutions and exploring Large Language Models (LLMs)
-* 🌱 Learning Advanced Machine Learning, MLOps, AI Agents and Production AI Systems
-* 💡 Strong interest in Cybersecurity, Intelligent Systems and Emerging Technologies
-* 🎯 Goal: To become a skilled AI/ML Engineer building impactful real-world solutions
+🎓 Computer Science Graduate
 
----
+🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science
 
-## 🛠️ Tech Stack
+💡 Building real-world AI products with Flask, Django, FastAPI and Python
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![SQL](https://img.shields.io/badge/SQL-336791)
-![Java](https://img.shields.io/badge/Java-007396)
-![C](https://img.shields.io/badge/C-00599C)
-
-### Data Science & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
-
-### AI & Generative AI
+📊 Interested in:
 
 * Machine Learning
 * Deep Learning
-* Natural Language Processing (NLP)
-* Generative AI
-* Large Language Models (LLMs)
+* Computer Vision
+* NLP
+* LLMs
 * AI Agents
+* Data Analytics
 
-### Web Development
+🌱 Currently Learning
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+* MLOps
+* Production AI Systems
+* AI Agent Frameworks
+* Advanced Deep Learning
 
 ---
 
-## 🌟 Featured Projects
+# 🛠 Tech Stack
 
-### 🏠 House Price Prediction System
+### Languages
 
-Machine Learning application that predicts Bengaluru house prices using data preprocessing, feature engineering and predictive modeling techniques.
+Python • SQL • Java • C
 
-### ⚖️ Superlegal Doc AI
+### Machine Learning
 
-AI-powered legal document analysis system for intelligent document processing, classification and information extraction.
+Scikit-Learn • TensorFlow • Pandas • NumPy • Matplotlib • Seaborn
 
-### 🎤 AI Interview Assistant
+### AI
 
-An intelligent interview preparation platform that evaluates candidate responses and provides feedback using AI.
+Machine Learning
 
-### 😊 Sentiment Analysis
+Deep Learning
 
-Natural Language Processing project that analyzes customer opinions and classifies sentiment from textual data.
+Natural Language Processing
 
-### 🔢 Handwritten Digit Recognition
+Computer Vision
 
-Machine Learning and Computer Vision project that recognizes handwritten digits with high accuracy.
+Generative AI
+
+Large Language Models
+
+AI Agents
+
+### Backend
+
+Flask
+
+FastAPI
+
+Django
+
+REST APIs
+
+### Database
+
+MySQL
+
+SQLite
+
+MongoDB
+
+### Tools
+
+Git
+
+GitHub
+
+Docker
+
+VS Code
+
+Jupyter Notebook
 
 ---
 
-## 📈 GitHub Statistics
+# 🚀 Featured Projects
+
+## 🛒 Retail Shelf Optimization
+
+End-to-end Machine Learning platform for:
+
+* Demand Forecasting
+* Sales Prediction
+* Shelf Optimization
+* Customer Analytics
+* Discount Recommendation
+* Interactive Dashboard
+
+---
+
+## 🚗 AI Driver Drowsiness Detection
+
+Real-time Computer Vision application that detects
+
+* Eye Closure
+* Yawning
+* Driver Fatigue
+* Voice Alert System
+
+---
+
+## 🎙 Echo Eats AI Voice Assistant
+
+Voice-enabled food ordering assistant built using
+
+* Speech Recognition
+* NLP
+* Flask
+* Django
+* AI APIs
+
+---
+
+## 📄 SuperLegalDoc AI
+
+AI-powered legal document assistant using
+
+* NLP
+* LLMs
+* Document Intelligence
+
+---
+
+## 📰 Fake News Detection
+
+Machine Learning based web application for detecting fake news using
+
+* NLP
+* TF-IDF
+* Logistic Regression
+* Flask
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amajali-784&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amajali-784&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amajali-784&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amajali-784&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amajali-784&theme=tokyonight"/>
+
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=amajali-784&theme=tokyonight"/>
-</p>
+---
+
+# 🏆 Achievements
+
+✅ Built 30+ AI, ML and Full Stack Projects
+
+✅ Experience with Machine Learning & NLP
+
+✅ Strong Python Developer
+
+✅ Building Production Ready AI Applications
+
+✅ Passionate about Open Source
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-* 🚀 Building Production-Ready AI Applications
-* 🤖 Exploring Generative AI & LLMs
-* 📊 Advancing Data Science Skills
-* ⚙️ Learning MLOps & AI Deployment
-* 🌐 Contributing to Open Source Projects
-* 💼 Preparing for AI/ML Engineer Opportunities
+🚀 AI Products
 
----
+🤖 Generative AI
 
-## 🏆 Core Expertise
+📈 Data Science
 
-✔ Machine Learning
+🧠 Deep Learning
 
-✔ Data Science
+⚙ MLOps
 
-✔ Data Analytics
+☁ Cloud Deployment
 
-✔ Python Development
+📹 Computer Vision
 
-✔ Natural Language Processing
-
-✔ Generative AI
-
-✔ Deep Learning
-
-✔ SQL
-
-✔ Problem Solving
-
-✔ Cybersecurity Fundamentals
+🗣 Voice AI
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-💼 LinkedIn:
+💼 LinkedIn
+
 https://www.linkedin.com/in/ankush-majalikar-76bb301a4/
 
-🐙 GitHub:
-https://github.com/amajali-784
+🐙 GitHub
 
-📧 Email:
-DM ON LINKEDIN
+https://github.com/amajali-784
 
 ---
 
 <div align="center">
 
-## 🚀 Turning Data Into Intelligent Solutions
+# 🚀 Turning Ideas into Intelligent AI Solutions
 
-### "Learn • Build • Innovate • Repeat"
+### ⭐ Learn • Build • Deploy • Repeat ⭐
 
-⭐ Thank you for visiting my GitHub Profile!
+<img src="https://komarev.com/ghpvc/?username=amajali-784&style=for-the-badge"/>
 
 </div>
