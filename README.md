@@ -1,115 +1,56 @@
-# 👋 Hi, I'm **Ankush Majalikar**
+# <div align="center">👋 Hi, I'm **Ankush Majalikar**</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Data+Scientist;Python+Developer;Generative+AI+%7C+LLMs+%7C+Computer+Vision;Building+Production+Ready+AI+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Data+Scientist;Python+Developer;Building+Real-World+AI+Solutions;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Always+Learning+%26+Building" />
 
 <br>
 
-### 🚀 AI/ML Engineer • Data Scientist • Python Developer • GenAI Enthusiast
+### 🚀 AI & Machine Learning Engineer | Data Scientist | Python Developer
 
-Building intelligent systems using **Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI and Data Science**
+Building intelligent applications using **Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI and Python**
 
 <br>
 
 <a href="https://github.com/amajali-784">
-<img src="https://img.shields.io/github/followers/amajali-784?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/amajali-784">
-<img src="https://img.shields.io/github/stars/amajali-784?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/amajali-784?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ankush-majalikar-76bb301a4/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ankush%20Majalikar-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=amajali-784&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 💡 About Me
 
-🎓 Computer Science Graduate
+🎓 Computer Science Engineering Graduate
 
-🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science
+💻 Passionate about solving real-world problems through Artificial Intelligence and Machine Learning.
 
-💡 Building real-world AI products with Flask, Django, FastAPI and Python
+I enjoy building complete AI applications—from data preprocessing and model training to backend APIs and user-friendly interfaces.
 
-📊 Interested in:
+### 🔍 Areas of Interest
 
 * Machine Learning
-* Deep Learning
+* Data Science
+* Natural Language Processing
 * Computer Vision
-* NLP
-* LLMs
-* AI Agents
-* Data Analytics
+* Generative AI
+* AI Voice Assistants
+* Intelligent Automation
 
-🌱 Currently Learning
+### 🌱 Currently Learning
 
 * MLOps
+* Large Language Models (LLMs)
+* AI Agents
 * Production AI Systems
-* AI Agent Frameworks
-* Advanced Deep Learning
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-Python • SQL • Java • C
-
-### Machine Learning
-
-Scikit-Learn • TensorFlow • Pandas • NumPy • Matplotlib • Seaborn
-
-### AI
-
-Machine Learning
-
-Deep Learning
-
-Natural Language Processing
-
-Computer Vision
-
-Generative AI
-
-Large Language Models
-
-AI Agents
-
-### Backend
-
-Flask
-
-FastAPI
-
-Django
-
-REST APIs
-
-### Database
-
-MySQL
-
-SQLite
-
-MongoDB
-
-### Tools
-
-Git
-
-GitHub
-
-Docker
-
-VS Code
-
-Jupyter Notebook
+* Cloud Deployment
 
 ---
 
@@ -117,62 +58,136 @@ Jupyter Notebook
 
 ## 🛒 Retail Shelf Optimization
 
-End-to-end Machine Learning platform for:
+An end-to-end Machine Learning platform for retail analytics.
 
-* Demand Forecasting
+### Features
+
+* Product Demand Forecasting
+* Shelf Placement Optimization
 * Sales Prediction
-* Shelf Optimization
-* Customer Analytics
+* Customer Purchase Analysis
+* Seasonal Trend Analysis
 * Discount Recommendation
 * Interactive Dashboard
 
----
+**Tech Stack**
 
-## 🚗 AI Driver Drowsiness Detection
-
-Real-time Computer Vision application that detects
-
-* Eye Closure
-* Yawning
-* Driver Fatigue
-* Voice Alert System
+Python • Pandas • Scikit-Learn • XGBoost • Flask • SQL
 
 ---
 
 ## 🎙 Echo Eats AI Voice Assistant
 
-Voice-enabled food ordering assistant built using
+An AI-powered voice assistant that enables users to interact with a food ordering system using speech.
+
+### Features
 
 * Speech Recognition
-* NLP
-* Flask
-* Django
-* AI APIs
-
----
-
-## 📄 SuperLegalDoc AI
-
-AI-powered legal document assistant using
-
-* NLP
-* LLMs
-* Document Intelligence
+* Voice Commands
+* Natural Language Processing
+* Django Backend
+* AI Integration
 
 ---
 
 ## 📰 Fake News Detection
 
-Machine Learning based web application for detecting fake news using
+Machine Learning web application that predicts whether news is genuine or fake.
 
-* NLP
-* TF-IDF
-* Logistic Regression
-* Flask
+### Features
+
+* NLP Text Processing
+* TF-IDF Vectorization
+* Text Classification
+* Flask Deployment
 
 ---
 
-# 📈 GitHub Analytics
+## ⚖️ SuperLegalDoc AI
+
+AI-powered legal document assistant for document analysis and intelligent text processing.
+
+---
+
+## 🏦 Credit Approval System
+
+Backend application developed using Django REST Framework.
+
+### Features
+
+* Loan Eligibility Prediction
+* Customer Management
+* Credit Approval Workflow
+* REST APIs
+
+---
+
+## 😊 Sentiment Analysis
+
+NLP application for customer review analysis and sentiment classification.
+
+---
+
+# 💻 Technical Skills
+
+## Languages
+
+* Python
+* SQL
+* Java
+* C
+
+---
+
+## Machine Learning
+
+* Scikit-Learn
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+---
+
+## AI
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* Generative AI
+* LLM Applications
+
+---
+
+## Backend
+
+* Flask
+* Django
+* FastAPI
+* REST APIs
+
+---
+
+## Databases
+
+* MySQL
+* SQLite
+* MongoDB
+
+---
+
+## Tools
+
+* Git
+* GitHub
+* Docker
+* VS Code
+* Jupyter Notebook
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -188,60 +203,52 @@ Machine Learning based web application for detecting fake news using
 
 </p>
 
----
+<p align="center">
 
-# 🏆 Achievements
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amajali-784&theme=tokyonight"/>
 
-✅ Built 30+ AI, ML and Full Stack Projects
-
-✅ Experience with Machine Learning & NLP
-
-✅ Strong Python Developer
-
-✅ Building Production Ready AI Applications
-
-✅ Passionate about Open Source
+</p>
 
 ---
 
-# 🎯 Current Focus
+# 🎯 What I'm Working On
 
-🚀 AI Products
+* Building production-ready AI applications
+* Developing intelligent automation solutions
+* Exploring LLM-powered applications
+* Learning MLOps and scalable AI deployment
+* Contributing to open-source projects
 
-🤖 Generative AI
+---
 
-📈 Data Science
+# 🏆 Highlights
 
-🧠 Deep Learning
-
-⚙ MLOps
-
-☁ Cloud Deployment
-
-📹 Computer Vision
-
-🗣 Voice AI
+* 🚀 30+ AI, ML, Data Science and Full-Stack projects
+* 📊 Experience with Machine Learning and NLP
+* 🤖 Building end-to-end AI applications
+* 💻 Strong foundation in Python and backend development
+* 🌱 Continuous learner focused on practical AI solutions
 
 ---
 
 # 📫 Connect With Me
 
-💼 LinkedIn
+💼 **LinkedIn**
 
-https://www.linkedin.com/in/ankush-majalikar-76bb301a4/
+**https://www.linkedin.com/in/ankush-majalikar-76bb301a4/**
 
-🐙 GitHub
+🐙 **GitHub**
 
-https://github.com/amajali-784
+**https://github.com/amajali-784**
 
 ---
 
 <div align="center">
 
-# 🚀 Turning Ideas into Intelligent AI Solutions
+## 🚀 Turning Data into Intelligent Solutions
 
-### ⭐ Learn • Build • Deploy • Repeat ⭐
+### *Learn • Build • Deploy • Improve*
 
-<img src="https://komarev.com/ghpvc/?username=amajali-784&style=for-the-badge"/>
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
